@@ -45,7 +45,7 @@ END;
 INSERT INTO bank.Customer (Cld, CName, CEmail, Contact)
 VALUES
     (1001, 'Vicky', 'vicky@gmail.com', '9988567899'),
-    (1002, 'Bhaskar', 'bhaskar@gmail.com', '63089768976'),
+    (1002, 'Bhaskar', 'bhaskar@gmail.com', '6308976896'),
     (1003, 'Ramu', 'ramu@gmail.com', '620987605');
 
 
